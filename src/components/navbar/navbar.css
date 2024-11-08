@@ -1,0 +1,11 @@
+.border-bottom-main{
+    border-bottom: 1px solid #dcca87;
+    padding-block: 10px;
+}
+
+.link{
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 20px;
+    font-weight: 500;
+}
